@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class Pr6_CountDupliCateWordsInAString {
+public class Pr6_CountDuplicateWordsInAString {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
